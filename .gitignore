@@ -4,6 +4,8 @@
 /storage/*.key
 /vendor
 .env
+.idea
+composer.lock
 .env.backup
 .phpunit.result.cache
 Homestead.json
